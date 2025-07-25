@@ -2,9 +2,9 @@
 
 ## Hardware
 
-<!-- ## Drone (v3) -->
+## Drone (``v3``)
 
-<!-- - [PP 2.4 GHz Rx](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP) -->
+- Receiver ([ExpressLRS PP 2.4 GHz Rx](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP))  
 <!--   - PCB: -->
 <!--     - Layers: 2 -->
 <!--     - PCB Thickness: 0.8mm -->
@@ -29,14 +29,9 @@
 <!--     - Confirm Production file: Yes #TEMP -->
 <!--     - Engrave Text: PP_RX_SX1280_v1.0_ELRS -->
 <!--     - Stencil Remark: Stencil for ELRS_RX_PP_v1.0. Fine-pitch accuracy required for SX1280 and RF filter. #TEMP -->
-<!-- - [FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW) -->
-<!-- - [OVX306 VTx](https://www.koptery.cz/vysilace/ovx306-vtx/) -->
-<!-- - Battery Cable ([BetaFPV BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - ``BT2.0 U Cable Pigtail (40mm)``) -->
-
-<!-- --- -->
-
-<!-- \+ everything from ``Drone (v1)`` [$150] -->
-<!-- \+ everything from ``Drone (v2)`` [$108.50] -->
+- Flight Controller ([OpenDrone FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW))  
+- VTX ([Happymodel OVX306 VTx](https://www.happymodel.cn/index.php/2022/02/25/happymodel-ovx306-openvtx-5-8g-48ch-400mw-vtx-replacement-of-whoop_vtx/))  
+- Battery Cable ([BetaFPV BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - ``BT2.0 U Cable Pigtail (40mm)``)  
 
 ### Drone (``v2``) - [$108.50]  
 
