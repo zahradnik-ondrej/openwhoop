@@ -51,7 +51,7 @@
 - Radio Transmitter ([BetaFPV LiteRadio 3 Radio Transmitter](https://betafpv.com/products/literadio-3-radio-transmitter) - ``ExpressLRS 2.4G, Mode 2 (Left stick throttle)``) [$33]  
 - Goggles ([BetaFPV VR03 FPV Goggles](https://betafpv.com/products/vr03-fpv-goggles)) [$75]  
 - Batteries ([BetaFPV BT2.0 300mAh 1S 30C Battery (8PCS)](https://betafpv.com/collections/batt-1s/products/bt2-0-300mah-1s-30c-battery-8pcs)) [$30]  
-- Charger ([BetaFPV 6 Ports 1S Battery Charger & Adapter](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618586758) - ``Charger Only``) [$12]
+- Charger ([BetaFPV 6 Ports 1S Battery Charger](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618586758) - ``Charger Only``) [$12]
 
 *\+ everything from ``Drone (v0)`` **[+$95]***  
 
