@@ -4,9 +4,9 @@
 
 ### Drone (``v3``)
 
-- Receiver ([ExpressLRS PP 2.4 GHz Rx](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP))  
+- Receiver ([ExpressLRS PP 2.4 GHz](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP) - ``PP``)  
 - Flight Controller ([OpenDrone FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW))  
-- VTX ([Happymodel OVX306 VTx](https://www.happymodel.cn/index.php/2022/02/25/happymodel-ovx306-openvtx-5-8g-48ch-400mw-vtx-replacement-of-whoop_vtx/))  
+- Video Transmitter ([Happymodel OVX306](https://www.happymodel.cn/index.php/2022/02/25/happymodel-ovx306-openvtx-5-8g-48ch-400mw-vtx-replacement-of-whoop_vtx/))  
 - Battery Cable ([BetaFPV BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - ``BT2.0 U Cable Pigtail (40mm)``)
 
 <!--   - PCB: -->
