@@ -1,40 +1,72 @@
 # OpenWhoop
 
-## Radio Transmitter
+<!-- ## Drone (v2) -->
 
-- [LiteRadio 3 Radio Transmitter](https://betafpv.com/products/literadio-3-radio-transmitter) - ExpressLRS 2.4G, Mode 2 (Left stick throttle)
+<!-- - [PP 2.4 GHz Rx](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP) -->
+<!--   - PCB: -->
+<!--     - Layers: 2 -->
+<!--     - PCB Thickness: 0.8mm -->
+<!--     - Surface Finish: ENIG -->
+<!--     - Via Covering: Tented -->
+<!--     - Confirm Production file: Yes #TEMP -->
+<!--     - Mark on PCB: Remove Mark #TEMP -->
+<!--     - PCB Remark: This is a 10x10 mm 2.4 GHz RF board. Please ensure minimal trace edge burrs and precise alignment. #TEMP -->
+<!--   - PCBA: -->
+<!--     - Assembly Side: Bottom Side -->
+<!--     - Confirm Parts Placement: Yes #TEMP -->
+<!--     - Stencil Storage: Yes #TEMP -->
+<!--     - Photo Confirmation: Yes #TEMP -->
+<!--     - Board Cleaning: Yes #TEMP -->
+<!--     - Bake Components: Yes (Bake all moisture-sensitive components according to their MSL classification prior to assembly.) #TEMP -->
+<!--     - Depanel boards & edge rail before delivery: ??? #TEMP -->
+<!--     - Nitrogen reflow soldering: Yes #TEMP -->
+<!--     - PCBA remark: Verify placement and orientation of SX1280 and RF filter (2450FM07D0034T). Orientation is critical for RF performance. #TEMP -->
+<!--   - Stencil: -->
+<!--     - Nano-Coating: Yes #TEMP -->
+<!--     - Polishing Process: Electropolishing #TEMP -->
+<!--     - Confirm Production file: Yes #TEMP -->
+<!--     - Engrave Text: PP_RX_SX1280_v1.0_ELRS -->
+<!--     - Stencil Remark: Stencil for ELRS_RX_PP_v1.0. Fine-pitch accuracy required for SX1280 and RF filter. #TEMP -->
+<!-- - [FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW) -->
+<!-- - [OVX306 VTx](https://www.koptery.cz/vysilace/ovx306-vtx/) -->
+<!-- - Battery Cable ([BetaFPV BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - ``BT2.0 U Cable Pigtail (40mm)``) -->
 
-## Drone (v2)
+<!-- --- -->
 
-- [65mm Tiny Whoop Nano Frame](https://www.printables.com/model/239280-65mm-tiny-whoop-nano-frame) - Canopy_v4.stl, Battery_holder_v5.stl, 65mm_Whoop_V5.stl
-- [PP 2.4 GHz Rx](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP)
-- [FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW)
-- [CADDXFPV Ant Lite Analog Camera (FPV Cycle Edition)](https://caddxfpv.com/products/caddxfpv-ant-lite-4-3-fpvcycle-edition) - 4:3
-- [Propellers Gemfan 1219-3 (31mm) PC Durable 1mm - Clear Blue - (4CCW+4CW)](https://www.hobbydrone.cz/en/gemfan-1219-3--31mm--pc-durable-1mm-clear-blue-4ccw-4cw-/)
-- [BT2.0 450mAh 1S 30C Battery (4PCS)](https://betafpv.com/products/bt2-0-450mah-1s-30c-battery-4pcs)
-- [6 Ports 1S Battery Charger & Adapter](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618652294) - Charger & EU Adapter
-- [LW-PLA Green, 1,75 mm (750 g)](https://www.3djake.cz/colorfabb/lw-pla-green) - Green
-- [OVX306 VTx](https://www.koptery.cz/vysilace/ovx306-vtx/)
-- [BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - BT2.0 U Cable Pigtail (40mm)
-- [TrueRC Singularity u.FL 40mm](https://www.rotorama.com/product/truerc-singularity-u-fl-40mm)
+<!-- - + Radio Transmitter from Drone (v0) -->
+<!-- - + Goggles from Drone (v0) -->
+<!-- - + Batteries from Drone (v0) -->
+<!-- - + Charger from Drone (v0) -->
+
+<!-- - + Motors from Drone (v1) -->
+<!-- - + Camera from Drone (v1) -->
+<!-- - + Propellers from Drone (v1) -->
+<!-- - + Frame from Drone (v1) -->
+<!-- - + Canopy from Drone (v1) -->
+<!-- - + Antenna from Drone (v1) -->
 
 ## Drone (v1)
 
-- [65mm Tiny Whoop Nano Frame](https://www.printables.com/model/239280-65mm-tiny-whoop-nano-frame) - Canopy_v4.stl, Battery_holder_v5.stl, 65mm_Whoop_V5.stl
-- [0802SE Brushless Motors](https://betafpv.com/collections/brushless-motors/products/0802se-22000kv-brushless-motors) - 19500KV (2022 Version)
-- [CADDXFPV Ant Lite Analog Camera (FPV Cycle Edition)](https://caddxfpv.com/products/caddxfpv-ant-lite-4-3-fpvcycle-edition) - 4:3
-- [Propellers Gemfan 1219-3 (31mm) PC Durable 1mm - Clear Blue - (4CCW+4CW)](https://www.hobbydrone.cz/en/gemfan-1219-3--31mm--pc-durable-1mm-clear-blue-4ccw-4cw-/)
-- [BT2.0 450mAh 1S 30C Battery (4PCS)](https://betafpv.com/products/bt2-0-450mah-1s-30c-battery-4pcs)
-- [6 Ports 1S Battery Charger & Adapter](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618652294) - Charger & EU Adapter
-- [Happymodel X12 ELRS Pro 5in1 AIO Flight Controller Built-in 12A ESC and OPENVTX 1-2S for DIY Drone](https://www.amazon.com/Happymodel-Flight-Controller-Built-OPENVTX/dp/B0DR2MQQXX)
-- [LW-PLA Green, 1,75 mm (750 g)](https://www.3djake.cz/colorfabb/lw-pla-green) - Green
+- Motors ([BetaFPV 0802SE Brushless Motors](https://betafpv.com/collections/brushless-motors/products/0802se-22000kv-brushless-motors) - ``19500KV (2022 Version)``)
+- Camera ([CADDXFPV Ant Lite Analog Camera (FPV Cycle Edition)](https://caddxfpv.com/products/caddxfpv-ant-lite-4-3-fpvcycle-edition) - ``4:3``)
+- Propellers ([Gemfan 31mm 3-blade Micro Whoop Propellers (1.0mm Shaft)](https://betafpv.com/collections/31mm-propellers/products/31mm-3-blade-micro-whoop-propellers-1-0mm-shaft-1?variant=31459398058118))
+- Flight Controller ([BetaFPV Air Brushless Flight Controller](https://betafpv.com/products/air-brushless-flight-controller?variant=41142912745606) - ``5IN1``)
+- Frame ([BetaFPV Air65 II Brushless Whoop Frame](https://betafpv.com/products/air65-ii-brushless-whoop-frame?variant=42083838984326))
+- Canopy ([BetaFPV Air Canopy](https://betafpv.com/products/air-canopy?variant=40219641413766))
+- Anetnna ([TrueRC Singularity 5.8](https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8) - ``RHCP, U.FL short 40mm``)
+
+---
+
+- + Radio Transmitter from Drone (v0)
+- + Goggles from Drone (v0)
+- + Batteries from Drone (v0)
+- + Charger from Drone (v0)
 
 ## Drone (v0)
 
-- [Meteor65 Brushless Whoop Quadcopter (2022)](https://betafpv.com/products/meteor65-brushless-whoop-quadcopter-1s) - ELRS 2.4G
-- [BT2.0 450mAh 1S 30C Battery (4PCS)](https://betafpv.com/products/bt2-0-450mah-1s-30c-battery-4pcs)
-- [6 Ports 1S Battery Charger & Adapter](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618652294) - Charger & EU Adapter
+- Radio Transmitter ([BetaFPV LiteRadio 3 Radio Transmitter](https://betafpv.com/products/literadio-3-radio-transmitter) - ``ExpressLRS 2.4G, Mode 2 (Left stick throttle)``)
+- Goggles ([BetaFPV VR03 FPV Goggles](https://betafpv.com/products/vr03-fpv-goggles))
+- Drone ([BetaFPV Air65 Brushless Whoop Quadcopter](https://betafpv.com/products/air65-brushless-whoop-quadcopter?variant=41111519494278) - ``Freestyle``)
+- Batteries ([BetaFPV BT2.0 300mAh 1S 30C Battery (8PCS)](https://betafpv.com/collections/batt-1s/products/bt2-0-300mah-1s-30c-battery-8pcs))
+- Charger ([BetaFPV 6 Ports 1S Battery Charger & Adapter](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618652294) - ``Charger Only``)
 
-## Goggles
-
-- [VR03 FPV Goggles](https://betafpv.com/products/vr03-fpv-goggles)
