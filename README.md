@@ -4,9 +4,9 @@
 
 ### Drone (``v3``)
 
-- Receiver ([ExpressLRS PP 2.4 GHz](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP) - ``PP``)  
-- Flight Controller ([OpenDrone FC_ESC_STM32F405RG_26x26](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW))  
-- Video Transmitter ([Happymodel OVX306](https://www.happymodel.cn/index.php/2022/02/25/happymodel-ovx306-openvtx-5-8g-48ch-400mw-vtx-replacement-of-whoop_vtx/))  
+- Receiver (RX) ([ExpressLRS PP 2.4 GHz](https://github.com/ExpressLRS/ExpressLRS-Hardware/tree/master/PCB/2400MHz/RX_PP) - ``PP``)  
+- Flight Controller (FC) + Electric Speed Controller (ESC) ([OpenDrone](https://github.com/phonght32/OpenDrone_AIO_FC_F405_HW))  
+- Video Transmitter (VTX) ([Happymodel OVX306](https://www.happymodel.cn/index.php/2022/02/25/happymodel-ovx306-openvtx-5-8g-48ch-400mw-vtx-replacement-of-whoop_vtx/))  
 - Battery Cable ([BetaFPV BT2.0 Whoop Cable Pigtail](https://betafpv.com/products/bt2-0-1s-whoop-cable-pigtail?variant=40413174169734) - ``BT2.0 U Cable Pigtail (40mm)``)
 
 <!--   - PCB: -->
@@ -39,7 +39,7 @@
 - Motors ([BetaFPV 0802SE Brushless Motors](https://betafpv.com/collections/brushless-motors/products/0802se-22000kv-brushless-motors) - ``19500KV (2022 Version)``) **[$39]**  
 - Camera ([BetaFPV C03 FPV Micro Camera](https://betafpv.com/collections/camera-vtx/products/c03-fpv-micro-camera)) **[$12]**  
 - Propellers ([Gemfan 31mm 3-blade Micro Whoop Propellers (1.0mm Shaft)](https://betafpv.com/collections/31mm-propellers/products/31mm-3-blade-micro-whoop-propellers-1-0mm-shaft-1?variant=31459398058118)) **[$2.50]**  
-- Flight Controller ([BetaFPV Air Brushless Flight Controller](https://betafpv.com/products/air-brushless-flight-controller?variant=41142912745606) - ``5IN1``) **[$50]**  
+- Flight Controller (FC) ([BetaFPV Air Brushless Flight Controller](https://betafpv.com/products/air-brushless-flight-controller?variant=41142912745606) - ``5IN1``) **[$50]**  
 - Frame ([BetaFPV Air65 II Brushless Whoop Frame](https://betafpv.com/products/air65-ii-brushless-whoop-frame?variant=42083838984326)) **[$5]**  
 <!-- - **OPTIONAL**: Antenna ([TrueRC Singularity 5.8](https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8) - ``RHCP, U.FL short 40mm``) -->  
 
