@@ -1,6 +1,14 @@
-# OpenWhoop
+<div align="center">
+
+# 🚁 OpenWhoop
+
+</div>
+
+<div align="center">
 
 ## Hardware
+
+</div>
 
 ### Drone (``v3``)
 
@@ -54,7 +62,11 @@
 
 - Drone ([BetaFPV Air65 Brushless Whoop Quadcopter](https://betafpv.com/products/air65-brushless-whoop-quadcopter?variant=41111519494278) - ``Freestyle``) **[$95]**  
 
+<div align="center">
+
 ## Firmware
+
+</div>
 
 - [Bluejay](https://github.com/mathiasvr/bluejay)
 - [OpenVTx](https://github.com/OpenVTx/OpenVTx)
