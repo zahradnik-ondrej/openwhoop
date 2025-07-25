@@ -42,18 +42,16 @@
 <!-- - + Camera from Drone (v1) -->
 <!-- - + Propellers from Drone (v1) -->
 <!-- - + Frame from Drone (v1) -->
-<!-- - + Canopy from Drone (v1) -->
 <!-- - + Antenna from Drone (v1) -->
 
 ## Drone (v1)
 
 - Motors ([BetaFPV 0802SE Brushless Motors](https://betafpv.com/collections/brushless-motors/products/0802se-22000kv-brushless-motors) - ``19500KV (2022 Version)``)
-- Camera ([CADDXFPV Ant Lite Analog Camera (FPV Cycle Edition)](https://caddxfpv.com/products/caddxfpv-ant-lite-4-3-fpvcycle-edition) - ``4:3``)
+- Camera ([BetaFPV C03 FPV Micro Camera](https://betafpv.com/collections/camera-vtx/products/c03-fpv-micro-camera))
 - Propellers ([Gemfan 31mm 3-blade Micro Whoop Propellers (1.0mm Shaft)](https://betafpv.com/collections/31mm-propellers/products/31mm-3-blade-micro-whoop-propellers-1-0mm-shaft-1?variant=31459398058118))
 - Flight Controller ([BetaFPV Air Brushless Flight Controller](https://betafpv.com/products/air-brushless-flight-controller?variant=41142912745606) - ``5IN1``)
 - Frame ([BetaFPV Air65 II Brushless Whoop Frame](https://betafpv.com/products/air65-ii-brushless-whoop-frame?variant=42083838984326))
-- Canopy ([BetaFPV Air Canopy](https://betafpv.com/products/air-canopy?variant=40219641413766))
-- Anetnna ([TrueRC Singularity 5.8](https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8) - ``RHCP, U.FL short 40mm``)
+- **OPTIONAL**: Antenna ([TrueRC Singularity 5.8](https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8) - ``RHCP, U.FL short 40mm``)
 
 ---
 
