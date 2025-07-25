@@ -2,6 +2,8 @@
 
 # 🚁 OpenWhoop
 
+### A shopping list of components needed to build a micro drone *aka* a tiny whoop.
+
 </div>
 
 <div align="center">
