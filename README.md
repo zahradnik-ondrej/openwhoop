@@ -44,16 +44,13 @@
 - Flight Controller ([BetaFPV Air Brushless Flight Controller](https://betafpv.com/products/air-brushless-flight-controller?variant=41142912745606) - ``5IN1``) **[$50]**  
 - Frame ([BetaFPV Air65 II Brushless Whoop Frame](https://betafpv.com/products/air65-ii-brushless-whoop-frame?variant=42083838984326)) **[$5]**  
 <!-- - **OPTIONAL**: Antenna ([TrueRC Singularity 5.8](https://www.truerc.ca/shop/5-8ghz-2/transmitter/singularity-5-8) - ``RHCP, U.FL short 40mm``) -->  
-*\+ everything from ``Drone (v1)`` **[+$150]***  
 
 ## Drone (``v1``) - [$150]  
 
 - Radio Transmitter ([BetaFPV LiteRadio 3 Radio Transmitter](https://betafpv.com/products/literadio-3-radio-transmitter) - ``ExpressLRS 2.4G, Mode 2 (Left stick throttle)``) **[$33]**  
 - Goggles ([BetaFPV VR03 FPV Goggles](https://betafpv.com/products/vr03-fpv-goggles)) **[$75]**  
 - Batteries ([BetaFPV BT2.0 300mAh 1S 30C Battery (8PCS)](https://betafpv.com/collections/batt-1s/products/bt2-0-300mah-1s-30c-battery-8pcs)) **[$30]**  
-- Charger ([BetaFPV 6 Ports 1S Battery Charger](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618586758) - ``Charger Only``) **[$12]**
-
-*\+ everything from ``Drone (v0)`` **[+$95]***  
+- Charger ([BetaFPV 6 Ports 1S Battery Charger](https://betafpv.com/products/bt2-0-ph2-0-1s-lipo-charger-adapter?variant=39395618586758) - ``Charger Only``) **[$12]**  
 
 ## Drone (``v0``) - [$95]  
 
