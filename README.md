@@ -57,10 +57,10 @@
 
 ---
 
-- + Radio Transmitter from Drone (v0)
-- + Goggles from Drone (v0)
-- + Batteries from Drone (v0)
-- + Charger from Drone (v0)
+\+ Radio Transmitter from ``Drone (v0)``  
+\+ Goggles from ``Drone (v0)``  
+\+ Batteries from ``Drone (v0)``  
+\+ Charger from ``Drone (v0)``  
 
 ## Drone (v0)
 
